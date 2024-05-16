@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434781277949",
+    "project_id": "school-g",
+    "storage_bucket": "school-g.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434781277949:android:7f76c6b85e2fd776a53894",
+        "android_client_info": {
+          "package_name": "com.arabic.schoolg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcEJm3jL7IVvMUwiZ1uBkxi_5AVUmUsYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
